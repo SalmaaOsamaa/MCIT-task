@@ -4,8 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts <br/>
 in order to run this Project <br/>
-### `npm install`
+ ```sh
+   git clone https://github.com/SalmaaOsamaa/Storefront-Backend.git
+   ```
 then in order to start the project 
-### `npm start`
+ ```sh
+   git clone https://github.com/SalmaaOsamaa/Storefront-Backend.git
+   ```
  
 
