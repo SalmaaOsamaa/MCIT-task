@@ -5,11 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts <br/>
 in order to run this Project <br/>
  ```sh
-   git clone https://github.com/SalmaaOsamaa/Storefront-Backend.git
+   git clone https://github.com/SalmaaOsamaa/MCIT-task.git
    ```
 then in order to start the project 
  ```sh
-   git clone https://github.com/SalmaaOsamaa/Storefront-Backend.git
+   npm install
    ```
- 
+   then 
+   
+  ```sh
+   npm start
+   ```
 
